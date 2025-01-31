@@ -1,5 +1,5 @@
 {
-  "latest_version": "0.0.2",
+  "latest_version": "1.0.2",
   "platforms": {
     "windows": {
       "download_url": "https://github.com/user/repo/releases/download/v1.2.3/app-windows.exe",
