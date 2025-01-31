@@ -2,16 +2,8 @@
   "latest_version": "1.0.2",
   "platforms": {
     "windows": {
-      "download_url": "https://github.com/user/repo/releases/download/v1.2.3/app-windows.exe",
+      "download_url": "https://drive.google.com/file/d/1NRNnBNV1O5-puwxVj4G_z8OhGnTLQkQJ/view?usp=sharing",
       "changelog": "🚀 Улучшена производительность и исправлены баги."
-    },
-    "macos": {
-      "download_url": "https://github.com/user/repo/releases/download/v1.2.3/app-macos.dmg",
-      "changelog": "🔧 Добавлена поддержка новых устройств."
-    },
-    "linux": {
-      "download_url": "https://github.com/user/repo/releases/download/v1.2.3/app-linux.AppImage",
-      "changelog": "🎨 Улучшен интерфейс и исправлены ошибки."
     }
   }
 }
